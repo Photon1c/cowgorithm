@@ -1,10 +1,11 @@
-🐄✈️ Cowgorithm
+🐄✈️ Cowgorithm: Cow Airlines Pygame Simulation
 
 Emergent routing from weak local signals
 
 Cows graze locally. The system routes them globally.
 
 ![cover](media/Cow-Neo.png)
+![cowgorithm-pygame](media/cowgorithm-pygame.PNG)
 
 🧠 What is this?
 
